@@ -23,14 +23,17 @@ A high-speed Nmap-based scanner that continuously scans Class A, B, and C public
 
 📁 **Output Structure**
 
-data/: JSON results for Class A, B, C, and custom scans
+**data/:** JSON results for Class A, B, C, and custom scans
 
-output/: HTML tables generated from scan results
+**output/:** HTML tables generated from scan results
 
-web/: Frontend UI with tabs, search, and live updates
+**web/:** Frontend UI with tabs, search, and live updates
 
 
 ⚙️  **Built With**
-Bash, Nmap, dig/host
-
-HTML5, CSS3, JavaScript (vanilla)
+Bash
+Nmap
+dig/host
+HTML5
+CSS3
+JavaScript (vanilla)
